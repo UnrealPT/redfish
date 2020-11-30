@@ -1,0 +1,67 @@
+{
+  "server1": {
+	"systemUrl": "https://198.18.238.203",
+	"loginAccount": "",
+	"loginPassword": "+"
+  },
+  "server2": {
+	"systemUrl": "https://198.18.238.206",
+	"loginAccount": "",
+	"loginPassword": "+"
+	},
+  "server3": {
+	"systemUrl": "https://198.18.238.207",
+	"loginAccount": "",
+	"loginPassword": "+"
+	},
+  "server4": {
+	"systemUrl": "https://198.18.238.214",
+	"loginAccount": "",
+	"loginPassword": "+"
+	},
+  "server5": {
+	"systemUrl": "https://198.18.238.215",
+	"loginAccount": "",
+	"loginPassword": "+"
+	},
+  "server6": {
+	"systemUrl": "https://192.168.215.32",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server7": {
+	"systemUrl": "https://192.168.215.31",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server8": {
+	"systemUrl": "https://192.168.215.34",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server9": {
+	"systemUrl": "https://192.168.215.33",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server10": {
+	"systemUrl": "https://192.168.215.30",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server11": {
+	"systemUrl": "https://192.168.215.29",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server12": {
+	"systemUrl": "https://192.168.215.120",
+	"loginAccount": "",
+	"loginPassword": ""
+	},
+  "server13": {
+	"systemUrl": "https://192.168.215.121",
+	"loginAccount": "",
+	"loginPassword": ""
+	}
+}
